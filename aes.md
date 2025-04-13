@@ -1,36 +1,59 @@
-## Cryptix AES v3.2.0
+# 🌊 荣臻梦之队官方网站
 
-### Cryptix General License
-<pre>
+[English](README.md) | 简体中文 
 
-Cryptix General License
+![团队标志](img/ico.png)
 
-Copyright (c) 1995-2005 The Cryptix Foundation Limited.
-All rights reserved.
+## 📖 关于我们
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
+荣臻梦之队是来自北京市八一学校的学生团队，致力于推进水下机器人技术的发展。我们的团队专注于创新设计和海洋科学探索，通过团队合作和不懈努力，不断突破技术难关。
 
-  1. Redistributions of source code must retain the copyright notice,
-     this list of conditions and the following disclaimer.
+## 🚀 我们的使命
 
-  2. Redistributions in binary form must reproduce the above copyright
-     notice, this list of conditions and the following disclaimer in
-     the documentation and/or other materials provided with the
-     distribution.
+我们致力于：
+- 开发尖端水下机器人技术
+- 探索海洋科学和海洋学
+- 促进青少年STEM教育
+- 展现中国学生在科技创新领域的活力
 
-THIS SOFTWARE IS PROVIDED BY THE CRYPTIX FOUNDATION LIMITED AND
-CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
-INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
-IN NO EVENT SHALL THE CRYPTIX FOUNDATION LIMITED OR CONTRIBUTORS BE
-LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
-SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
-BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
-WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
-OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
-IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+## 🌟 团队亮点
 
-</pre>
+- **队长**：沈跃然
+  - 北京市八一学校八年级学生
+  - 连续三年参加海鲈鱼比赛经验
+  - 技术设计报告和ROV操作专家
+
+## 🛠️ 网站功能
+
+我们的官方网站展示：
+- 团队介绍和成就
+- 深海探索项目
+- 海洋知识资源
+- 团队成员简介
+- 比赛亮点
+
+## 📱 联系我们
+
+- **哔哩哔哩**：[荣臻梦之队](https://space.bilibili.com/3546600993458304)
+- **YouTube**：[@TeamDreamBYRZ](https://www.youtube.com/@TeamDreamBYRZ)
+- **邮箱**：yueran.shen@teamdream-byrz.xyz
+
+## 💻 技术细节
+
+这是一个使用以下技术构建的静态网站：
+- HTML5
+- CSS3
+- JavaScript
+- 响应式设计，适配所有设备
+
+## 📄 版权信息
+
+© 2024 荣臻梦之队 版权所有
+
+## 👨‍💻 开发者
+
+网站由 [HungryHenry](http://hungryhenry.xyz) 开发
+
+---
+
+*"探索海洋深处，创新永不止步"* 🌊🤖
